@@ -1,0 +1,5 @@
+Los requisitos que se solicitan se estan implementados de tal forma que la esfera la implemente como la cabeza del player, los dos cilindros como la opa y el cuello, el cubo como el gorro del player, las pildoras como las piernas y todo ello agruado en el empty object nombrado como "player".
+
+Para el uso de las texturas son mayoritariamente colores solidos y las que se diferencian son el material transparente que lo he aplicado en las gafas de los personajes y para las texturas he aplicado un rostro humano en la esfera que representa la cabeza.
+
+El prefab variant nombrado como "enemy" se diferencia principalmente por el uso de una mochila y por la distinción de colores en su cuerpo.
